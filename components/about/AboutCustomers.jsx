@@ -8,7 +8,7 @@ import Image from "next/image";
 import Customer1 from "../../public/customer1.png";
 import Customer2 from "../../public/customer2.png";
 import Customer3 from "../../public/customer3.png";
-import AboutCustomer from "../../public/styleHome.png";
+import AboutImage2 from "../../public/aboutImage2.avif";
 
 
 const AboutCustomers = () => {
@@ -54,7 +54,7 @@ const AboutCustomers = () => {
             <div className="hover:scale-110 transition-all duration-700 ease-in-out">
               <Image
                 className="max-w-full max-h-80 "
-                src={AboutCustomer}
+                src={AboutImage2}
                 alt="cusMainImage"
               />
             </div>
