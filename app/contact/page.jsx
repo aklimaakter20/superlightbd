@@ -1,11 +1,11 @@
 import Forms from '@/components/Contact/Forms'
-import Googlmap from '@/components/Contact/Googlmap'
+import GoogleMap from '@/components/Contact/GoogleMap'
 import React from 'react'
 
 const page = () => {
   return (
     <>
-     <Googlmap />
+     <GoogleMap />
      <Forms />
     </>
   )
