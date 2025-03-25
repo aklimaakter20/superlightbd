@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Googlmap = () => {
+const GoogleMap = () => {
 return (
     <section className="google-map">
             <div className="container w-full mx-auto">
@@ -16,4 +16,4 @@ return (
 )
 }
 
-export default Googlmap
+export default GoogleMap
