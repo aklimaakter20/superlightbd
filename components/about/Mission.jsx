@@ -4,9 +4,7 @@ import MissionImg from "../../public/mission.png"
 import Vision from "../../public/vision.png"
 import System from "../../public/system.png"
 
-// import MissionImg from "@/public/mission.png";
-// import Vision from "@/public/vision.png";
-// import System from "@/public/system.png";
+
 
 
 
