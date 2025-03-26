@@ -1,6 +1,6 @@
 import React from 'react'
 import dynamic from 'next/dynamic'
-const CategoriesShop = dynamic(()=> import('../../components/shop/CategoriesShop'))
+const CategoriesShop = dynamic(()=> import('@/components/shop/CategoriesShop'))
 const CategoriesShort = dynamic(()=> import('../../components/shop/CategoriesShort'))
 const CategoriesListItems = dynamic(()=> import('../../components/shop/CategoriesListItems'))
 import shop1 from '../../public/shop1.png'

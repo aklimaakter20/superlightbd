@@ -1,11 +1,6 @@
 import React from "react";
 import Image from "next/image";
-// import AboutHero2 from "@/public/aboutHero2.avif";
-// import Customer1 from "@/public/customer1.png";
-// import Customer2 from "@/public/customer2.png";
-// import Customer3 from "@/public/customer3.png";
-// import AboutCustomer from "@/public/styleHome.png";
-import Customer1 from "../../public/customer1.png";
+import Customer1 from "@/public/customer1.png";
 import Customer2 from "../../public/customer2.png";
 import Customer3 from "../../public/customer3.png";
 import AboutImage2 from "../../public/aboutImage2.avif";
